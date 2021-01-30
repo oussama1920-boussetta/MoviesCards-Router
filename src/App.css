@@ -1,0 +1,62 @@
+.App {
+  text-align: center;
+  
+}
+
+
+
+.box-flex{
+  display: flex;
+}
+
+.Cardo{
+display: flex;
+
+flex-wrap: wrap;
+justify-content: center;
+justify-content: space-evenly;
+margin-top: 100px;}
+
+.Modal{
+  margin-left: 1300px;
+
+}
+.rating{
+  color: rgb(241, 37, 37);
+
+}
+.Rate{
+  margin-left: 100px;
+}
+.Card{
+  margin-top:50px;
+  margin-left: 40px;
+
+}
+.Add{
+  margin-left: 50px;
+}
+.image{
+  margin-left: 30px;
+}
+.rate{
+  margin-left: 40px;
+}
+.nom{
+  margin-left: 38px;
+}
+.synopsis{
+  margin-left: 15px;
+}
+
+.Img{
+  border: solid;
+  width: 210px;
+}
+
+.video{
+  width: 500px;
+  height: 200px ;
+  
+}
+h1{color: red;}
